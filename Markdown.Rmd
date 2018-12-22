@@ -1,0 +1,29 @@
+---
+title: "Getting Sentimental About Coffee"
+author: "Erin Bugbee, Sarah Fringer, Amy Liu"
+date: "12/12/2018"
+runtime: shiny
+output: html_document
+---
+
+# Getting Sentimental About Coffee
+
+This application can be used to compare the sentiments of tweets including different words related to coffee, including coffee shops. The tweets are updated each time the app is run, so the information displayed reflects the most current tweets about the words "coffee", "starbucks", "dunkin", and "shiru".
+
+## Use this App to:
+
+* View original tweets
+* Explore word clouds 
+* Observe the overall sentiments of tweets, positive or negative
+* Examine the most common sentiments of the tweets and the words that contribute to them
+
+Overall, this app can be used to learn about the sentiments people have and the words they associate with coffee and specific coffee shops.
+
+<center>
+![](www/coffee1.jpg)
+
+## Be patient, your coffee is brewing.
+</center>
+
+
+
